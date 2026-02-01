@@ -447,7 +447,7 @@ h2{
 }
 .infoBox{
       width: 300px;
-
+      background-color: white;
 }
 .infoBox h3 {
       letter-spacing: 6px;
